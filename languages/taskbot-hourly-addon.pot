@@ -1,0 +1,975 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Taskbot - Hourly project posting addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-29 13:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: taskbot-hourly-addon"
+
+#: includes/hooks.php:964 includes/hooks.php:1609 includes/hooks.php:1618
+#: includes/hooks.php:1632 includes/hooks.php:1812 includes/hooks.php:1822
+msgid "#"
+msgstr ""
+
+#: includes/hooks.php:974
+#, php-format
+msgid "%s * %s"
+msgstr ""
+
+#: includes/hooks.php:698
+#, php-format
+msgid "%s estimated maximum hours per %s"
+msgstr ""
+
+#: includes/hooks.php:862
+#, php-format
+msgid "%s hours "
+msgstr ""
+
+#: includes/public-function.php:155 includes/public-function.php:177
+#, php-format
+msgid "%s/hr"
+msgstr ""
+
+#: includes/hooks.php:413 includes/hooks.php:448
+msgid "00H : 00M"
+msgstr ""
+
+#: includes/public-function.php:401
+msgid ""
+"<strong>{{buyer_name}}</strong> approved your time cart for the project "
+"<strong>{{project_title}}</strong>"
+msgstr ""
+
+#: includes/public-function.php:376
+msgid ""
+"<strong>{{buyer_name}}</strong> decline time for the project <strong>"
+"{{project_title}}</strong>"
+msgstr ""
+
+#: includes/public-function.php:427
+msgid ""
+"<strong>{{buyer_name}}</strong> unlock your time cart for the project "
+"<strong>{{project_title}}</strong>"
+msgstr ""
+
+#: includes/public-function.php:350
+msgid ""
+"<strong>{{seller_name}}</strong> send you <strong>{{total_hours}}</strong> "
+"hours for the project <strong>{{project_title}}</strong>"
+msgstr ""
+
+#: includes/hooks.php:1963
+msgid "Action"
+msgstr ""
+
+#: includes/hooks.php:146
+msgid "Add decline reason below"
+msgstr ""
+
+#: includes/hooks.php:2119
+msgid "Add feedback title"
+msgstr ""
+
+#: includes/hooks.php:670
+msgid "Add maximum hourly rate"
+msgstr ""
+
+#: includes/hooks.php:656
+msgid "Add maximum hours"
+msgstr ""
+
+#: includes/hooks.php:664
+msgid "Add minimum hourly rate"
+msgstr ""
+
+#: includes/hooks.php:289
+msgid "Add this day timecard"
+msgstr ""
+
+#: includes/hooks.php:291
+msgid "Add this month timecard"
+msgstr ""
+
+#: includes/hooks.php:287
+msgid "Add this week timecard"
+msgstr ""
+
+#: includes/interval-hooks.php:79 includes/interval-hooks.php:165
+#: includes/interval-hooks.php:269
+msgid "Add time"
+msgstr ""
+
+#: includes/hooks.php:411
+msgid "Add your working hours"
+msgstr ""
+
+#: includes/hooks.php:1658
+msgid "Additional C/F balance"
+msgstr ""
+
+#: includes/hooks.php:740
+#, php-format
+msgid "Admin commision fee (%s)"
+msgstr ""
+
+#: includes/hooks.php:1842
+msgid "Admin commission:"
+msgstr ""
+
+#: includes/hooks.php:1996
+msgid "All"
+msgstr ""
+
+#. Author of the plugin
+msgid "Amento Tech"
+msgstr ""
+
+#: includes/hooks.php:975 includes/hooks.php:1613 includes/hooks.php:1628
+#: includes/hooks.php:1636 includes/hooks.php:1816 includes/hooks.php:1832
+msgid "Amount"
+msgstr ""
+
+#: includes/hooks.php:1646
+msgid "Amount you paid:"
+msgstr ""
+
+#: includes/hooks.php:138
+msgid "Approve"
+msgstr ""
+
+#: public/class-taskbot-hourly-addon-public.php:112
+msgid "Are you sure you want to approved this hours request?"
+msgstr ""
+
+#: public/class-taskbot-hourly-addon-public.php:110
+msgid "Are you sure you want to submit hours request?"
+msgstr ""
+
+#: includes/hooks.php:1236
+msgid "Buyer amount"
+msgstr ""
+
+#: includes/hooks.php:1805
+msgid ""
+"Buyer has not released the payment against the project for which you are "
+"hired. Once you will submit the hours for approval then buyer will review "
+"and release the payment"
+msgstr ""
+
+#: includes/hooks.php:2068
+msgid "C/F balance"
+msgstr ""
+
+#: includes/hooks.php:732
+msgid "Client per hour rate"
+msgstr ""
+
+#: includes/hooks.php:1082 includes/hooks.php:2130
+msgid "Complete contract"
+msgstr ""
+
+#: includes/hooks.php:2070
+msgid "Complete project"
+msgstr ""
+
+#: includes/hooks.php:2159
+msgid "Complete task"
+msgstr ""
+
+#: includes/hooks.php:2128
+msgid "Complete without review"
+msgstr ""
+
+#: includes/hooks.php:1714 includes/interval-hooks.php:392
+msgid "Completed"
+msgstr ""
+
+#: helpers/hourly-addon-emails.php:82 includes/public-function.php:658
+msgid ""
+"Congratulation! {{buyer_name}} have approve your project hourly request.<br/>"
+"Please click on the button below to view the project <br/> {{project_link}}"
+msgstr ""
+
+#: includes/hooks.php:974
+msgid "Cost"
+msgstr ""
+
+#: includes/public-function.php:293
+msgid "Daily"
+msgstr ""
+
+#: includes/hooks.php:1915 includes/hooks.php:1947
+#: includes/interval-hooks.php:336 includes/interval-hooks.php:349
+msgid "Date"
+msgstr ""
+
+#: includes/hooks.php:50 includes/hooks.php:267 includes/interval-hooks.php:434
+#: includes/interval-hooks.php:440 includes/public-function.php:294
+msgid "Day"
+msgstr ""
+
+#: includes/hooks.php:139 includes/interval-hooks.php:396
+msgid "Decline"
+msgstr ""
+
+#: includes/ajax-hooks.php:169
+msgid "Decline detail field is required"
+msgstr ""
+
+#: includes/hooks.php:965 includes/hooks.php:1610 includes/hooks.php:1619
+#: includes/hooks.php:1633 includes/hooks.php:1813 includes/hooks.php:1823
+#: includes/interval-hooks.php:337 includes/interval-hooks.php:350
+msgid "Description"
+msgstr ""
+
+#: includes/interval-hooks.php:387
+msgid "Drafted"
+msgstr ""
+
+#: includes/public-function.php:583 includes/public-function.php:668
+#: includes/public-function.php:738
+msgid "Email contents"
+msgstr ""
+
+#: includes/public-function.php:556 includes/public-function.php:641
+#: includes/public-function.php:711
+msgid "Email setting variables"
+msgstr ""
+
+#: includes/public-function.php:529
+msgid "Email to buyer on hourly requst."
+msgstr ""
+
+#: includes/public-function.php:614
+msgid "Email to seller on hourly request approved."
+msgstr ""
+
+#: includes/public-function.php:683
+msgid "Email to seller on hourly request declined."
+msgstr ""
+
+#: includes/public-function.php:348 includes/public-function.php:374
+#: includes/public-function.php:399 includes/public-function.php:425
+msgid "Enable/disable flash message"
+msgstr ""
+
+#: includes/public-function.php:398
+msgid "Enable/disable notification to seller after hours approved"
+msgstr ""
+
+#: includes/public-function.php:373
+msgid "Enable/disable notification to seller after hours decline"
+msgstr ""
+
+#: includes/public-function.php:347
+msgid "Enable/disable notification to seller after hours submitation"
+msgstr ""
+
+#: includes/public-function.php:424
+msgid "Enable/disable notification to seller after unlock hours"
+msgstr ""
+
+#: includes/hooks.php:418
+msgid "Enter description"
+msgstr ""
+
+#: includes/hooks.php:672
+msgid "Enter maximum hourly rate"
+msgstr ""
+
+#: includes/hooks.php:660
+msgid "Enter maximum hours"
+msgstr ""
+
+#: includes/hooks.php:666
+msgid "Enter minimum hourly rate"
+msgstr ""
+
+#: includes/hooks.php:726
+msgid "Enter your hourly rate"
+msgstr ""
+
+#: includes/hooks.php:122 includes/hooks.php:347
+msgid "Escrow"
+msgstr ""
+
+#: includes/hooks.php:1114
+msgid "escrow"
+msgstr ""
+
+#: includes/hooks.php:127
+#, php-format
+msgid "Escrow & unlock %s"
+msgstr ""
+
+#: includes/hooks.php:124
+#, php-format
+msgid "Escrow payment and enable this %s"
+msgstr ""
+
+#: includes/hooks.php:2123
+msgid "Feedback"
+msgstr ""
+
+#: includes/hooks.php:97 includes/hooks.php:304
+msgid "Filter by"
+msgstr ""
+
+#: includes/hooks.php:1633
+msgid "Freelancer work"
+msgstr ""
+
+#: includes/public-function.php:247
+msgid "Fri"
+msgstr ""
+
+#: includes/hooks.php:1594 includes/hooks.php:1790
+msgid "From:"
+msgstr ""
+
+#: includes/hooks.php:935
+msgid "Go to dashboard"
+msgstr ""
+
+#: includes/hooks.php:934
+msgid "Go to project"
+msgstr ""
+
+#: includes/public-function.php:565 includes/public-function.php:650
+#: includes/public-function.php:720
+msgid "Greeting"
+msgstr ""
+
+#: includes/hooks.php:125
+#, php-format
+msgid ""
+"Have more work to do with freelancer? In order to unlock this %s, you need "
+"to escrow this %s payment. Hit the “Escrow & unlock %s” button to get "
+"started."
+msgstr ""
+
+#: includes/public-function.php:567
+msgid "Hello {{buyer_name}},"
+msgstr ""
+
+#: includes/public-function.php:652 includes/public-function.php:722
+msgid "Hello {{seller_name}},"
+msgstr ""
+
+#: includes/hooks.php:1041
+#, php-format
+msgid "Hire “%s”"
+msgstr ""
+
+#: includes/interval-hooks.php:351
+msgid "Hour"
+msgstr ""
+
+#: includes/public-function.php:14
+msgid "Hourly"
+msgstr ""
+
+#: includes/public-function.php:89
+msgid "Hourly price project"
+msgstr ""
+
+#: includes/ajax-hooks.php:754 includes/ajax-hooks.php:899
+msgid "Hourly project hiring"
+msgstr ""
+
+#: includes/public-function.php:522
+msgid "Hourly project request"
+msgstr ""
+
+#: includes/hooks.php:877
+msgid "Hourly rate"
+msgstr ""
+
+#: includes/public-function.php:607
+msgid "Hourly request approved"
+msgstr ""
+
+#: includes/public-function.php:676
+msgid "Hourly request declined"
+msgstr ""
+
+#: helpers/hourly-addon-emails.php:33 includes/public-function.php:537
+msgid "Hourly request on project"
+msgstr ""
+
+#: includes/hooks.php:1918 includes/hooks.php:1954
+#: includes/interval-hooks.php:338
+msgid "Hours"
+msgstr ""
+
+#: includes/ajax-hooks.php:486
+msgid "Hours must be greater then 0"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://amentotech.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://codecanyon.net/item/taskbot-a-freelancer-marketplace-wordpress-"
+"plugin/35344021"
+msgstr ""
+
+#: includes/hooks.php:1117
+#, php-format
+msgid ""
+"In order to start this project, you need to escrow the first %s payment. Hit "
+"the “Hire” button to get started."
+msgstr ""
+
+#: includes/hooks.php:1575 includes/hooks.php:1771
+msgid "Invoice"
+msgstr ""
+
+#: includes/hooks.php:1567 includes/hooks.php:1570 includes/hooks.php:1763
+#: includes/hooks.php:1766
+msgid "invoice detail"
+msgstr ""
+
+#: includes/hooks.php:1910
+msgid "Invoices"
+msgstr ""
+
+#: includes/hooks.php:1588 includes/hooks.php:1784
+msgid "Issue date:"
+msgstr ""
+
+#: includes/hooks.php:1116
+#, php-format
+msgid "Like this freelancer? Let’s escrow first %s payment to get started"
+msgstr ""
+
+#: includes/interval-hooks.php:359
+msgid "Load more"
+msgstr ""
+
+#: includes/hooks.php:869
+msgid "Maximum estimated hours"
+msgstr ""
+
+#: includes/public-function.php:35
+msgid "Maximum hourly price is required"
+msgstr ""
+
+#: includes/public-function.php:37
+msgid "Maximum hours field is required"
+msgstr ""
+
+#: includes/public-function.php:34
+msgid "Minimum hourly price is required"
+msgstr ""
+
+#: includes/ajax-hooks.php:506
+msgid "Minutes must be greater then 0"
+msgstr ""
+
+#: includes/ajax-hooks.php:516
+msgid "Minutes must be less the 23"
+msgstr ""
+
+#: includes/ajax-hooks.php:496
+msgid "Minutes must be less the 60"
+msgstr ""
+
+#: includes/public-function.php:243
+msgid "Mon"
+msgstr ""
+
+#: includes/hooks.php:35 includes/hooks.php:249 includes/interval-hooks.php:436
+#: includes/public-function.php:304
+msgid "Month"
+msgstr ""
+
+#: includes/public-function.php:303
+msgid "Monthly"
+msgstr ""
+
+#: includes/interval-hooks.php:400
+msgid "New"
+msgstr ""
+
+#: includes/interval-hooks.php:363
+msgid "No hourly project activities found"
+msgstr ""
+
+#: includes/hooks.php:1974
+msgid "No invoices & bills found"
+msgstr ""
+
+#: includes/public-function.php:346 includes/public-function.php:372
+#: includes/public-function.php:397 includes/public-function.php:423
+msgid "Notification content"
+msgstr ""
+
+#: includes/public-function.php:345 includes/public-function.php:371
+#: includes/public-function.php:396 includes/public-function.php:422
+msgid "Notification setting variables"
+msgstr ""
+
+#: includes/public-function.php:344
+msgid "Notification to buyer after hours submitation"
+msgstr ""
+
+#: includes/public-function.php:395
+msgid "Notification to seller after hours approved"
+msgstr ""
+
+#: includes/public-function.php:370
+msgid "Notification to seller after hours decline"
+msgstr ""
+
+#: includes/public-function.php:421
+msgid "Notification to seller after unlock hours"
+msgstr ""
+
+#: helpers/hourly-addon-emails.php:130 includes/public-function.php:728
+msgid ""
+"Oho! A project hourly request has been declined by {{buyer_name}} with the "
+"reason of <br/> {{decline_detail}} <br />Please click on the button below to "
+"view the decline details.<br />{{project_link}}"
+msgstr ""
+
+#: includes/public-function.php:15
+msgid "Pay each freelancer on hourly rate"
+msgstr ""
+
+#: includes/interval-hooks.php:383
+msgid "Pending"
+msgstr ""
+
+#: includes/public-function.php:536 includes/public-function.php:621
+#: includes/public-function.php:690
+msgid "Please add email subject."
+msgstr ""
+
+#: includes/public-function.php:566 includes/public-function.php:651
+#: includes/public-function.php:721
+msgid "Please add text."
+msgstr ""
+
+#: includes/ajax-hooks.php:476
+msgid "Please add working hours and minutes"
+msgstr ""
+
+#: includes/ajax-hooks.php:403
+msgid "Please add working time"
+msgstr ""
+
+#: taskbot-hourly-addon.php:104
+msgid ""
+"Please install the <a href=\"https://codecanyon.net/item/taskbot-a-"
+"freelancer-marketplace-wordpress-plugin/35344021?s_rank=7\">Taskbot</a> "
+"parent plugin to use this hourly addon"
+msgstr ""
+
+#: includes/public-function.php:36
+msgid "Please select payment mode"
+msgstr ""
+
+#: includes/hooks.php:1644
+msgid "Previous C/F balance"
+msgstr ""
+
+#: includes/ajax-hooks.php:842
+msgid "Processing fee"
+msgstr ""
+
+#: helpers/hourly-addon-emails.php:80 includes/public-function.php:622
+msgid "Project hourly request approved"
+msgstr ""
+
+#: helpers/hourly-addon-emails.php:128 includes/public-function.php:691
+msgid "Project hourly request declined"
+msgstr ""
+
+#: includes/hooks.php:2006 includes/hooks.php:2190
+msgid "Project type"
+msgstr ""
+
+#: includes/hooks.php:972 includes/hooks.php:996 includes/hooks.php:1611
+#: includes/hooks.php:1626 includes/hooks.php:1634 includes/hooks.php:1814
+#: includes/hooks.php:1830
+msgid "Rate per hour"
+msgstr ""
+
+#: includes/hooks.php:140
+msgid "Read above details before doing any action"
+msgstr ""
+
+#: includes/hooks.php:1712
+msgid "Refunded"
+msgstr ""
+
+#: includes/hooks.php:885
+msgid "Remaining price for old interval"
+msgstr ""
+
+#: includes/public-function.php:248
+msgid "Sat"
+msgstr ""
+
+#: includes/hooks.php:425
+msgid "Save activity"
+msgstr ""
+
+#: includes/hooks.php:648 includes/hooks.php:651
+msgid "Select payment mode"
+msgstr ""
+
+#: includes/hooks.php:1240
+msgid "Seller amount"
+msgstr ""
+
+#: includes/hooks.php:133
+msgid "Seller is not submit any hours for this time interval"
+msgstr ""
+
+#: includes/public-function.php:528 includes/public-function.php:613
+#: includes/public-function.php:682
+msgid "Send email"
+msgstr ""
+
+#: includes/ajax-hooks.php:405 includes/ajax-hooks.php:406
+msgid "Something went wrong"
+msgstr ""
+
+#: includes/hooks.php:1917 includes/hooks.php:1951
+msgid "Status"
+msgstr ""
+
+#: includes/hooks.php:1840
+msgid "Sub totals:"
+msgstr ""
+
+#: includes/public-function.php:535 includes/public-function.php:620
+#: includes/public-function.php:689
+msgid "Subject"
+msgstr ""
+
+#: public/class-taskbot-hourly-addon-public.php:109
+#: public/class-taskbot-hourly-addon-public.php:111
+msgid "Submit hours"
+msgstr ""
+
+#: includes/hooks.php:161
+msgid "Submit question now"
+msgstr ""
+
+#: includes/hooks.php:341
+msgid "Submit week activity"
+msgstr ""
+
+#: includes/hooks.php:340
+msgid "Submit week activity to the employer and wait for approval"
+msgstr ""
+
+#: includes/hooks.php:398
+msgid "Submit your working hours"
+msgstr ""
+
+#: includes/hooks.php:816 includes/hooks.php:928
+msgid "Summary"
+msgstr ""
+
+#: includes/public-function.php:242
+msgid "Sun"
+msgstr ""
+
+#. Name of the plugin
+msgid "Taskbot - Hourly project posting addon"
+msgstr ""
+
+#: includes/hooks.php:1648
+msgid "Taxes & fees:"
+msgstr ""
+
+#: includes/hooks.php:113 includes/hooks.php:320
+msgid ""
+"The employer declined this milestone invoice. Read the comment below and try "
+"again"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This addon will allow the buyers to post the hourly projects and freelancers "
+"will be able to log the time by days/weeks/monts and then generate the "
+"invoices"
+msgstr ""
+
+#: includes/hooks.php:354
+msgid "This day is locked till employer approval"
+msgstr ""
+
+#: includes/hooks.php:356
+msgid "This month is locked till employer approval"
+msgstr ""
+
+#: includes/hooks.php:352
+msgid "This week is locked till employer approval"
+msgstr ""
+
+#: includes/public-function.php:799
+msgid "This would be a maximum working hours limit for a freelancer."
+msgstr ""
+
+#: includes/public-function.php:246
+msgid "Thurs"
+msgstr ""
+
+#: includes/hooks.php:853
+msgid "Time interval"
+msgstr ""
+
+#: includes/hooks.php:80 includes/hooks.php:377
+msgid "Timecard activities"
+msgstr ""
+
+#: includes/hooks.php:1582 includes/hooks.php:1778 includes/hooks.php:1916
+#: includes/hooks.php:1948
+msgid "Title"
+msgstr ""
+
+#: includes/hooks.php:1601 includes/hooks.php:1797
+msgid "To:"
+msgstr ""
+
+#: includes/hooks.php:1656
+msgid "Total"
+msgstr ""
+
+#: includes/hooks.php:893
+msgid "Total amount"
+msgstr ""
+
+#: includes/hooks.php:1254
+msgid "Total buyer amount"
+msgstr ""
+
+#: includes/interval-hooks.php:485
+msgid "Total carried forward"
+msgstr ""
+
+#: includes/hooks.php:973 includes/hooks.php:997 includes/hooks.php:1612
+#: includes/hooks.php:1627 includes/hooks.php:1635 includes/hooks.php:1815
+#: includes/hooks.php:1831
+msgid "Total hours"
+msgstr ""
+
+#: includes/hooks.php:90 includes/hooks.php:298 includes/hooks.php:386
+msgid "Total hours:"
+msgstr ""
+
+#: includes/interval-hooks.php:496
+msgid "Total paid till date"
+msgstr ""
+
+#: includes/interval-hooks.php:491
+msgid "Total pending amount"
+msgstr ""
+
+#: includes/interval-hooks.php:474
+msgid "Total pending for this day"
+msgstr ""
+
+#: includes/interval-hooks.php:470
+msgid "Total pending for this month"
+msgstr ""
+
+#: includes/interval-hooks.php:472
+msgid "Total pending for this week"
+msgstr ""
+
+#: includes/hooks.php:1208 includes/hooks.php:1271
+msgid "Total project budget"
+msgstr ""
+
+#: includes/hooks.php:1262
+msgid "Total seller amount"
+msgstr ""
+
+#: includes/hooks.php:861
+msgid "Total Time interval"
+msgstr ""
+
+#: includes/hooks.php:1844
+msgid "Totals:"
+msgstr ""
+
+#: includes/public-function.php:244
+msgid "Tue"
+msgstr ""
+
+#: includes/public-function.php:341 includes/public-function.php:367
+#: includes/public-function.php:392 includes/public-function.php:418
+msgid "View activity"
+msgstr ""
+
+#: includes/hooks.php:1964
+msgid "View invoice"
+msgstr ""
+
+#: includes/hooks.php:364
+msgid ""
+"Wait for the employer to activate this day, If your services further "
+"required for this project."
+msgstr ""
+
+#: includes/hooks.php:366
+msgid ""
+"Wait for the employer to activate this month, If your services further "
+"required for this project."
+msgstr ""
+
+#: includes/hooks.php:362
+msgid ""
+"Wait for the employer to activate this week, If your services further "
+"required for this project."
+msgstr ""
+
+#: includes/hooks.php:770
+msgid "Wallet amount"
+msgstr ""
+
+#: includes/hooks.php:1653
+msgid "Wallet amount used"
+msgstr ""
+
+#: includes/hooks.php:2072
+msgid "Wallet balance"
+msgstr ""
+
+#: includes/public-function.php:245
+msgid "Wed"
+msgstr ""
+
+#: includes/hooks.php:43 includes/hooks.php:259 includes/interval-hooks.php:438
+#: includes/public-function.php:299
+msgid "Week"
+msgstr ""
+
+#: includes/public-function.php:298
+msgid "Weekly"
+msgstr ""
+
+#: includes/ajax-hooks.php:404
+msgid "Working hours detail is required"
+msgstr ""
+
+#: includes/ajax-hooks.php:32 includes/ajax-hooks.php:64
+#: includes/ajax-hooks.php:96
+msgid "You are not allowd to perform this action"
+msgstr ""
+
+#: includes/ajax-hooks.php:167 includes/ajax-hooks.php:251
+#: includes/ajax-hooks.php:283 includes/ajax-hooks.php:399
+#: includes/ajax-hooks.php:443 includes/ajax-hooks.php:554
+#: includes/ajax-hooks.php:667
+msgid "You are not allowed to perform this action"
+msgstr ""
+
+#: includes/ajax-hooks.php:369
+msgid "You have already submit these slots to buyer"
+msgstr ""
+
+#: includes/ajax-hooks.php:466
+#, php-format
+msgid "You have option to add maximum %s hours"
+msgstr ""
+
+#: includes/ajax-hooks.php:793 includes/ajax-hooks.php:803
+#: includes/ajax-hooks.php:939 includes/ajax-hooks.php:949
+msgid "You have successfully completed this order"
+msgstr ""
+
+#: includes/ajax-hooks.php:241
+msgid "You have successfully decline hourly time slots"
+msgstr ""
+
+#: includes/ajax-hooks.php:808
+msgid "You have successfully redirect to checkout page"
+msgstr ""
+
+#: includes/ajax-hooks.php:360
+msgid "You have successfully submit hourly time slots to buyer"
+msgstr ""
+
+#: includes/ajax-hooks.php:536
+msgid "You have successfully update time for this date"
+msgstr ""
+
+#: includes/ajax-hooks.php:643
+msgid "You have successfullyy approved this time interval"
+msgstr ""
+
+#: includes/ajax-hooks.php:296
+msgid "You must need to add hours for submit this activity request"
+msgstr ""
+
+#: includes/hooks.php:724
+msgid "Your budget working hourly rate"
+msgstr ""
+
+#: includes/hooks.php:736
+msgid "Your per hour rate"
+msgstr ""
+
+#: includes/hooks.php:72
+#, php-format
+msgid ""
+"Your remaining total excessive amount will be carried forward to the next %s "
+"for your use."
+msgstr ""
+
+#: includes/interval-hooks.php:481
+#, php-format
+msgid ""
+"Your remaining total exessive amount will be carried forward to the next %s "
+"for your use."
+msgstr ""
+
+#: includes/public-function.php:542 includes/public-function.php:627
+msgid ""
+"{{buyer_name}} — To display the buyer name.<br>\n"
+"                            {{seller_name}} — To display the seller name.<br>"
+"\n"
+"                            {{project_title}} — To display the project title."
+"<br>\n"
+"                            {{project_link}} — To display the project link."
+"<br>"
+msgstr ""
+
+#: includes/public-function.php:696
+msgid ""
+"{{buyer_name}} — To display the buyer name.<br>\n"
+"                            {{seller_name}} — To display the seller name.<br>"
+"\n"
+"                            {{project_title}} — To display the project title."
+"<br>\n"
+"                            {{project_link}} — To display the project link."
+"<br>\n"
+"                            {{decline_detail}} — To display the decline "
+"detail.<br>"
+msgstr ""
+
+#: helpers/hourly-addon-emails.php:35 includes/public-function.php:573
+msgid ""
+"{{seller_name}} send you a hourly project request.<br/>Please click on the "
+"button below to view the project <br/> {{project_link}}"
+msgstr ""
