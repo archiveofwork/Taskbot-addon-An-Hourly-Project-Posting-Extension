@@ -1,7 +1,8 @@
 # Taskbot-addon-An-Hourly-Project-Posting-Extension
  Taskbot addon - An Hourly Project Posting Extension 
 --
- The Taskbot hourly project add-on is an enhancement to the Taskbot WordPress plugin. It empowers buyers or employers to establish hourly projects and engage sellers or freelancers on a per-hour basis.
+
+The Taskbot hourly project add-on is an enhancement to the Taskbot WordPress plugin. It empowers buyers or employers to establish hourly projects and engage sellers or freelancers on a per-hour basis.
  
 1. Safety and Originality: All the code contained in this repository is original and is believed to be safe for use. We have ensured that any dependencies, modules, or packages used within are from trusted sources. However, users are advised to exercise their own judgment and discretion.
 
