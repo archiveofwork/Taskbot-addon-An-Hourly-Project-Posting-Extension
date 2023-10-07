@@ -16,8 +16,8 @@ The Taskbot hourly project add-on is an enhancement to the Taskbot WordPress plu
 
 Users accessing and using the code in this repository agree to do so at their own risk and are responsible for compliance with local laws and regulations.
 
-Change log
---
+Change log:
+
 Release 1.6 – 30 April 2023
 
 -- Taskbot compatibility has been updated
